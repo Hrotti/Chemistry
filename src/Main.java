@@ -7,5 +7,6 @@ public class Main {
     public static void main(String[] args) {
         ElementalTable table = new ElementalTable();
         System.out.println(table.Ba());
+        System.out.println(table.Dy());
     }
 }
